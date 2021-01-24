@@ -1,4 +1,4 @@
-#A Simple Calculator
+# A Simple Calculator
 ```
 / = Division
 + = Addition
