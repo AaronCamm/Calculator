@@ -11,12 +11,12 @@ namespace Calculator
             while (true)
             {
                 Console.WriteLine(@"
-/ = Division
-+ = Addition
-* = Multiplication
-% = Percent (25%1000=250)
-^ = To Power Of (5^2=25)
-");
+                / = Division
+                + = Addition
+                * = Multiplication
+                % = Percent (25%1000=250)
+                ^ = To Power Of (5^2=25)
+                ");
                 Console.Write("Enter Equation (23*56): ");
                 var calcEquation = Console.ReadLine().Replace(" ", "");
 
